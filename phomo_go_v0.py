@@ -68,4 +68,4 @@ for i in p1_centerpx_rgbs:
         row_counter = 1
         col_counter += 1
 
-print(f'All pau. There are {num_rows*num_cols} new images in your output directory')
+print(f'Pau. There are {num_rows*num_cols} new images in your output directory')
