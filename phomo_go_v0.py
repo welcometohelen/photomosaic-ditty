@@ -6,7 +6,6 @@ import math
 
 # enable variable definition from command line
 import sys
-
 image1_filepath = sys.argv[1]
 image2_filepath = sys.argv[2]
 export_filepath = sys.argv[3]
